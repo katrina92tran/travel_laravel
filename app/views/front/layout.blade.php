@@ -5,8 +5,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	<title>Template website</title>
-	{{HTML::style('public/css/style.css')}}
 	{{HTML::style('public/css/bootstrap.min.css')}}
+	{{HTML::style('public/css/style.css')}}
 	{{HTML::style('public/css/nivo-slider.css')}}
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Racing+Sans+One">
 	<link rel="stylesheet" href="http://fortawesome.github.io/Font-Awesome/assets/font-awesome/css/font-awesome.css">
